@@ -11,6 +11,8 @@ public class sampleClass {
 
 
         System.out.println("check commit 3");
+
+        System.out.println("check commit 4");
     }
 }
 
