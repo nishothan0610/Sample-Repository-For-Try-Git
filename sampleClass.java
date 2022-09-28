@@ -6,6 +6,8 @@ public class sampleClass {
         System.out.println("fourth commit");
 
         System.out.println("check commit");
+
+        System.out.println("check commit 2");
     }
 }
 
