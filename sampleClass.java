@@ -15,6 +15,8 @@ public class sampleClass {
         System.out.println("check commit 4");
 
         System.out.println("nisho change 1");
+
+        System.out.println("nisho change 2");
     }
 }
 
