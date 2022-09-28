@@ -8,6 +8,11 @@ public class sampleClass {
         System.out.println("check commit");
 
         System.out.println("check commit 2");
+
+
+        System.out.println("check commit 3");
+
+        System.out.println("check commit 4");
     }
 }
 
