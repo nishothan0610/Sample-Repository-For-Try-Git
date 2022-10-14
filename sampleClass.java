@@ -5,6 +5,9 @@ public class sampleClass {
         System.out.println("third commit");
         System.out.println("fourth commit");
 
+
+        System.out.println("meenu commit");
+
         System.out.println("check commit");
 
         System.out.println("check commit 2");
@@ -15,6 +18,8 @@ public class sampleClass {
         System.out.println("check commit 4");
 
         System.out.println("nisho change 1");
+
+        System.out.println("nisho change 2");
     }
 }
 
